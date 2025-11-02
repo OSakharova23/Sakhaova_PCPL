@@ -18,7 +18,7 @@ def get_coef(index, prompt):
                 index = len(sys.argv) + 1
 
 
-def solve_biquadratic(a, b, c):
+def solve(a, b, c):
     result = []
     if a != 0:
         D = b * b - 4 * a * c
@@ -27,8 +27,8 @@ def solve_biquadratic(a, b, c):
         elif D == 0:
             t = -b / (2.0 * a)
             if t > 0:
-                x1 = sqrt(y)
-                x2 = -sqrt(y)
+                x1 = sqrt(t)
+                x2 = -sqrt(t)
                 result.extend([x1, x2])
             elif t == 0:
                 result.append(0.0)
@@ -57,7 +57,7 @@ def main():
     a = get_coef(1, 'Введите коэффициент А:')
     b = get_coef(2, 'Введите коэффициент B:')
     c = get_coef(3, 'Введите коэффициент C:')
-    roots = solve_biquadratic(a, b, c)
+    roots = solve(a, b, c)
 
     if roots == "Не биквадратное уравнение":
         print('Не биквадратное уравнение')

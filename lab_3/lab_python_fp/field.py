@@ -16,11 +16,11 @@ def field(items, *args):
             if flag:
                 yield d
 
-# goods = [
-#     {'title': 'Ковер', 'price': 2000, 'color': 'green'},
-#     {'title': 'Диван для отдыха', 'color': 'black'}
-# ]
-# print(list(field(goods, 'title')))
-#
-# print(list(field(goods, 'title', 'price')))
+goods = [
+    {'title': 'Ковер', 'price': 2000, 'color': 'green'},
+    {'title': 'Диван для отдыха', 'color': 'black'}
+]
+print(list(field(goods, 'title')))
+
+print(list(field(goods, 'title', 'price')))
 

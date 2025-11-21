@@ -18,9 +18,10 @@ def cm_timer_2():
     end = time()
     print(f"time: {end - start:.1f}")
 
+"""
+with cm_timer_1():
+    sleep(5.5)
 
-# with cm_timer_1():
-#     sleep(5.5)
-#
-# with cm_timer_2():
-#     sleep(5.5)
+with cm_timer_2():
+    sleep(5.5)
+"""

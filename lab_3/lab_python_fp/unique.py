@@ -18,9 +18,9 @@ class Unique:
                 return item
         raise StopIteration
 
-# data = [1, 1, 1, 1, 1, 2, 2, 2, 2, 2]
-# print(list(Unique(data)))
-#
-# data = ['a', 'A', 'b', 'B', 'a', 'A', 'b', 'B']
-# print(list(Unique(data)))
-# print(list(Unique(data, ignore_case=True)))
+data = [1, 1, 1, 1, 1, 2, 2, 2, 2, 2]
+print(list(Unique(data)))
+
+data = ['a', 'A', 'b', 'B', 'a', 'A', 'b', 'B']
+print(list(Unique(data)))
+print(list(Unique(data, ignore_case=True)))

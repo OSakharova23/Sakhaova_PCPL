@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsmbJLHhiVs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olgas\\учёба\\ПиКЯП\\lab_1F\\lab_1F.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olgas\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

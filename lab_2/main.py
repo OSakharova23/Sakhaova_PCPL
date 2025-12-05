@@ -1,4 +1,4 @@
-from colorama import Fore, init
+
 from lab_python_oop.rectangle import Rectangle
 from lab_python_oop.circle import Circle
 from lab_python_oop.square import Square

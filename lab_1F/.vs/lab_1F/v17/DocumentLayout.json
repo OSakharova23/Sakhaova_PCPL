@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF27303C-1D87-4534-B167-565169528798}|lab_1F.fsproj|c:\\users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0438\u043A\u044F\u043F\\lab_1f\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{FF27303C-1D87-4534-B167-565169528798}|lab_1F.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1F\\Program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.fs",
               "ToolTip": "C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1F\\Program.fs",
               "RelativeToolTip": "Program.fs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwFsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-05T09:05:20.185Z",
               "EditorCaption": ""

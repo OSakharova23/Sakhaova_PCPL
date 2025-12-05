@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B1FDF8-C276-4712-A191-3A66800E28B9}|lab_1C.csproj|c:\\users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u043F\u0438\u043A\u044F\u043F\\lab_1c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B1FDF8-C276-4712-A191-3A66800E28B9}|lab_1C.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1C\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\olgas\\\u0443\u0447\u0451\u0431\u0430\\\u041F\u0438\u041A\u042F\u041F\\lab_1C\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:16:36.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

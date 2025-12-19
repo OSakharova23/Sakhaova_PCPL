@@ -1,0 +1,15 @@
+C:\Users\olgas\учёба\ПиКЯП\DZ\bin\Debug\net8.0\DZ.exe
+C:\Users\olgas\учёба\ПиКЯП\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\Users\olgas\учёба\ПиКЯП\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\Users\olgas\учёба\ПиКЯП\DZ\bin\Debug\net8.0\DZ.dll
+C:\Users\olgas\учёба\ПиКЯП\DZ\bin\Debug\net8.0\DZ.pdb
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.dll
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.pdb
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\Users\olgas\учёба\ПиКЯП\DZ\obj\Debug\net8.0\ref\DZ.dll
